@@ -55,4 +55,4 @@ Each skill folder should be self-contained. Keep setup instructions, examples, a
 
 ## License
 
-Choose a license before sharing broadly. MIT is a simple default for reusable instruction files.
+MIT License
